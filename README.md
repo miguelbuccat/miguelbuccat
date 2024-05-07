@@ -5,7 +5,7 @@ Hi! I'm Miguel Buccat. A 16 year old high school student.
 
 - Been coding since I was 11 years old and have been sleep deprived ever since
 
-- Co-founder and Lead Web Developer at [Laven Designs](https://github.com/lavendesigns), a design and development group specializing in web development, web design, and graphic design.
+- Co-founder [Laven Labs](https://github.com/lavenlabs)
 
 - [miguelbuccat.me](https://miguelbuccat.me)
 
