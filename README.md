@@ -1,7 +1,7 @@
 # About me
 Hi! I'm Miguel Buccat. A 16 year old high school student.
 
-- Full-stack web developer that loves NodeJS
+- Full-stack web developer, upcoming indie game developer
 
 - Been coding since I was 11 years old and have been sleep deprived ever since
 
