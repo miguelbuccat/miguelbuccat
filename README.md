@@ -30,4 +30,4 @@ Hi! I'm Miguel Buccat. A 16 year old high school student.
 
 Email: [miguel.buccat12@gmail.com](mailto:miguel.buccat12@gmail.com)
 
-Discord: mintalarm
+Discord: kleinz
