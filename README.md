@@ -5,8 +5,6 @@ Hi! I'm Miguel Buccat. A 16 year old high school student.
 
 - Been coding since I was 11 years old and have been sleep deprived ever since
 
-- Co-founder [Laven Labs](https://github.com/lavenlabs)
-
 - [miguelbuccat.me](https://miguelbuccat.me)
 
 # Skills
