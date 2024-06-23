@@ -5,7 +5,7 @@ Hi! I'm Miguel Buccat. A 16 year old high school student.
 
 - Been coding since I was 11 years old and have been sleep deprived ever since
 
-- [miguelbuccat.me](https://miguelbuccat.me)
+- [kleinz.xyz](https://kleinz.xyz)
 
 # Skills
 
